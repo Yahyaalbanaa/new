@@ -1,0 +1,4 @@
+numper   = input("please wnter two digits\n")
+numper_0 = int( numper [0])
+numper_1 = int( numper [1])
+print (numper_0 + numper_1)
